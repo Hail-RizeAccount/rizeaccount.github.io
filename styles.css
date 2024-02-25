@@ -1,0 +1,25 @@
+@media screen and (min-width: 480px) {
+.body-class {background-color: #FFFFCC;}
+
+.header-class {background-color: #CCCCCC;color: #FF3300;font-size:160%;text-align:center;font-family:verdana}
+
+.nav-class { color:FF6600; background-color: #CC99CC;}
+
+a:link {color: #FF6633; text-decoration: none;}
+a:visited { color: #FF6633;background-color: transparent; text-decoration: none;}
+a:active {color: yellow; background-color: transparent;  font-weight: bold;}
+
+.title-class  {color: #FF3300;}
+
+.section-title-class  {color:#FF0033;}
+
+.text-class {color:#000033;}
+
+.image-class {border: 3px solid #330033;}
+
+.form-class {color: #330033;} 
+input {  background-color: #CCCCCC;color: #330033;}
+.button-class{  background-color: #330033;color: #CCCCCC;}
+
+.footer-class{ background-color: #CC99CC;color: #FF6600;}
+}
